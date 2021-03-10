@@ -1,3 +1,5 @@
+//document.getElementById()
+
 
 const div1 = document.createElement("div");
 div1.setAttribute("id", "test");
